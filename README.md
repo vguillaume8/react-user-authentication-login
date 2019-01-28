@@ -1,2 +1,5 @@
-# react-user-authentication-login
-A user login page created in react, that authenticates users with signed jwt tokens
+## Get Started
+1. Clone this repository
+2. Run npm install inside its root folder.
+3. run npm start
+4. Go to http://localhost:3000 in your browser to see it in action.
